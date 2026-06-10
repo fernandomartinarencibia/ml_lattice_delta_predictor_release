@@ -1,0 +1,23 @@
+name: delta_predictor_release
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - fpylll
+  - numpy>=1.24,<2.0
+  - pandas>=2.0,<3.0
+  - scikit-learn>=1.3,<2.0
+  - matplotlib>=3.7,<4.0
+  - seaborn>=0.13
+  - jupyter
+  - ipykernel
+  - pip
+  - pip:
+    # GPU: CUDA 12.4 (cu124) — probado también con CUDA 13.2 en RTX 5070
+    - xgboost>=2.0.0
+    - shap>=0.42
+    - torch
+    - torchvision
+    - torchaudio
+    - --extra-index-url https://download.pytorch.org/whl/cu124
