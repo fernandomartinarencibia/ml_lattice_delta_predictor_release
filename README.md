@@ -29,7 +29,7 @@ Se obtiene `lattice_dataset_v2.csv` (~224 000 filas, 30 columnas). Conviene veri
 
 ```bash
 sha256sum lattice_dataset_v2.csv
-# esperado: <SHA256_PLACEHOLDER>
+# esperado: d3e5a9d8a50ec188e6246703d72d20d548d5bfaeba067f6fc264eb75e48d949c
 ```
 
 > En Windows (PowerShell): `Expand-Archive lattice_dataset_v2.zip .` y `Get-FileHash lattice_dataset_v2.csv -Algorithm SHA256`.
