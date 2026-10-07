@@ -6,6 +6,8 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-MLPs-orange.svg)](https://pytorch.org/)
 [![NIST-PQC](https://img.shields.io/badge/NIST-Post--Quantum%20Cryptography-red.svg)](https://csrc.nist.gov/projects/post-quantum-cryptography)
 
+**[Leer Memoria Completa del TFG (PDF)](./Memoria_TFG_ML_Lattice_Reduction.pdf)**
+
 ---
 
 ## Resumen Ejecutivo
