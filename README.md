@@ -181,8 +181,8 @@ Produces accuracy and speed-up tables broken down by lattice family and dimensio
 
 [LinkedIn](https://www.linkedin.com/in/fernando-martin-arencibia-477257368/) · [GitHub](https://github.com/fernandomartinarencibia) · [Email](mailto:fernandomartinarencibia@gmail.com)
 
-Supervisor: Francisco Javier Blanco Romero (Department of Computer Science, UC3M), whom I thank for his guidance and technical support.
+Supervisor: Francisco Javier Blanco Romero (Department of Computer Science, UC3M), whom I thank for his guidance and technical support. Furthermore, he is the author of "lattice_utils.py"
 
 ## License
 
-The thesis is distributed under a Creative Commons Attribution-NonCommercial-NoDerivatives licence. [State the code licence here, e.g. MIT, after confirming with your supervisor regarding the code in `lattice_utils.py`.]
+The thesis is distributed under a Creative Commons Attribution-NonCommercial-NoDerivatives licence.
