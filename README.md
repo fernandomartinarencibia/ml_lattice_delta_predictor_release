@@ -179,7 +179,7 @@ Produces accuracy and speed-up tables broken down by lattice family and dimensio
 
 **Fernando Martín Arencibia** · BSc in Computer Science and Engineering, Universidad Carlos III de Madrid
 
-[LinkedIn](https://www.linkedin.com/in/fernando-martin-arencibia-477257368/) · [GitHub](https://github.com/fernandomartinarencibia) · [Email](mailto:fernandomartinarencibia@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/fernando-martin-arencibia/) · [GitHub](https://github.com/fernandomartinarencibia) · [Email](mailto:fernandomartinarencibia@gmail.com)
 
 Supervisor: Francisco Javier Blanco Romero (Department of Computer Science, UC3M), whom I thank for his guidance and technical support. Furthermore, he is the author of "lattice_utils.py"
 
