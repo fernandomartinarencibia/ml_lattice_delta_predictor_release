@@ -177,7 +177,7 @@ Genera las tablas de exactitud y aceleración por familia de retículo y dimensi
 
 **Fernando Martín Arencibia** · Graduado en Ingeniería Informática por la Universidad Carlos III de Madrid
 
-[LinkedIn](https://www.linkedin.com/in/fernando-martin-arencibia-477257368/) · [GitHub](https://github.com/fernandomartinarencibia) · [Email](mailto:fernandomartinarencibia@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/fernando-martin-arencibia/) · [GitHub](https://github.com/fernandomartinarencibia) · [Email](mailto:fernandomartinarencibia@gmail.com)
 
 Tutor: Francisco Javier Blanco Romero (Departamento de Informática, UC3M), a quien agradezco su orientación y apoyo técnico y que también es autor de lattice_utils.py fundamental para la generación de las bases.
 
